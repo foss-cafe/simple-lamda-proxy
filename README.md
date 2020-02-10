@@ -16,6 +16,6 @@
 ### Usage
 ```bash
 make install # installing virtual env and site packages
-make clenall # clean  workspace
+make cleanall # clean  workspace
 make build # building zip file
 ````
