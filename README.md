@@ -12,3 +12,10 @@
 | BACKEND | Backend url |
 
 `Handler`: lambda_function.lambda_handler
+
+### Usage
+```bash
+make install # installing virtual env and site packages
+make clenall # clean  workspace
+make build # building zip file
+````
